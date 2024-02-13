@@ -3,8 +3,6 @@ import numpy as np
 
 
 def print_progress_bar(iteration, total, length=50, fill="█", barfill="░", decimals=2):
-#def print_progress_bar(iteration, total, length=25, fill="⬜", barfill="⬛", decimals=1):
-
     """
     Print progress bar.
 
